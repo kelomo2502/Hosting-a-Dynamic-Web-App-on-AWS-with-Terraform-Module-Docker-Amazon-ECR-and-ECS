@@ -4,8 +4,8 @@ Space Travelers' Hub
 
 > React/Redux pair-programming project.
 
-
 ## Built With
+
 - React/Redux
 - JSX
 - Redux thunk
@@ -18,19 +18,20 @@ Space Travelers' Hub
 
 ##Live Demo Link [https://spacetravlershub.herokuapp.com/]
 
-
 ## Getting Started
 
 - run `git clone https://github.com/kelomo2502/Space-Travelers-Hub.git` in your terminal.
 - switch to the project's directory
 
 ### Prerequisites
+
 - NPM
 - ES6 JavaScript
 - Webpack
 - Understanding of APIs
 
 ### Setup
+
 - run `npm install`
 - run `npm start`
 
