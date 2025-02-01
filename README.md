@@ -82,8 +82,13 @@ CMD ["nginx", "-g", "daemon off;"]
 
 ### Deployment
 
+**Tasks:**
+
 - Build the Docker image of your web app.
 - Push the Docker image to the Amazon ECR repository created by Terraform.
+- Run `terraform init` and `terraform apply` to deploy the ECS cluster and the web app.
+- Access the web app through the public IP or DNS of the ECS service.
+-
 
 ## Authors
 
