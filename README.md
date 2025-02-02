@@ -98,17 +98,12 @@ CMD ["nginx", "-g", "daemon off;"]
 - Twitter: [@twitterhandle](https://twitter.com/kelomoJs)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/oyewunmi-gbenga)
 
-👤 **Suleiman Olaide**
-
-- GitHub: [@githubhandle](https://github.com/Ceemos96)
-- Twitter: [@twitterhandle](https://twitter.com/Ceemos_dev)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/suleiman-olaide-97689b154/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kelomo2502/Space-Travelers-Hub/issues).
+Feel free to check the [issues page](https://github.com/kelomo2502/Hosting-a-Dynamic-Web-App-on-AWS-with-Terraform-Module-Docker-Amazon-ECR-and-ECS/issues).
 
 ## Show your support
 
@@ -121,4 +116,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/kelomo2502/Space-Travelers-Hub/blob/development/LICENSE) licensed.
+This project is [MIT](https://github.com/kelomo2502/Hosting-a-Dynamic-Web-App-on-AWS-with-Terraform-Module-Docker-Amazon-ECR-and-ECS/blob/development/LICENSE) licensed.
